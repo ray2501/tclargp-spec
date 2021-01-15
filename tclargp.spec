@@ -5,7 +5,7 @@
 Name:           tclargp
 BuildRequires:  tcl >= 8.4
 Requires:       tcl >= 8.4
-License:        Tcl
+License:        TCL
 Group:          Development/Libraries/Tcl
 Version:        0.2
 Release:        0
